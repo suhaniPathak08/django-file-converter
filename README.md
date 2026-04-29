@@ -26,4 +26,3 @@ A minimal and clean Django web application to convert files between **PDF and DO
 
 ---
 
-## 📁 Project Structure
